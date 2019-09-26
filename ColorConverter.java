@@ -1,5 +1,6 @@
 import javafx.scene.paint.Color;
 
+//This class provides static methods to convert or alter JavaFX colors
 public class ColorConverter {
 	public static String toRGBCode(Color color) {
         return String.format("#%02X%02X%02X",
