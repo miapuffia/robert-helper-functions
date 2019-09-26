@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
+//This class provides a safe way to compare two Number objects
 @SuppressWarnings("unchecked")
 class NumberComparator implements Comparator<Number> {
 
