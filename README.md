@@ -1,6 +1,9 @@
 # Robert Helper Functions
 A set of functions that can be used in other Java code to help simplify certain actions.
 
+## ColorConverter
+This class provides static methods to convert or alter JavaFX colors
+
 ## ColoredFormatter
 This class is a formatter that changes the output text color depending on its level.
 
@@ -27,3 +30,6 @@ This class provides methods to get a list of available resources
 ## Settings
 This class provides methods to create a non-secure settings file and manage those settings
 It was designed to act like a portable version of the Preferences class
+
+## ToDecimal
+This class provides a static method to round a number to a number of decimals.
